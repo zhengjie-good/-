@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-<meta name-"viewport"content="width=device-wiidthinitial-scale=1.0" >
 <title>欢迎来到我们的主页</title>
 </head>
-<body style="backgroud-color:deepskyblue；”>
-<h1 style="color:white;">小组作业</h1>
+<body>
+<h1 style="color:blue;">小组作业</h1>
 <br>
 <h2>组长：林彤 学号：3180432005</h2> 
 <h2>组员：郑洁 学号：3180432006</h2>
